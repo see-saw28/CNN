@@ -9,8 +9,13 @@ Reseau de neurone + convolution
 Loss function : SparseCategoricalCrossentropy
 Optimizer : Adam
 
-## procéssus 
+## Processus 
 * Traitement des images : Niveau de gris + normalistion
 * Création du modèle
 * Entrainement du modèle 
 * Validation du modèle
+
+## Difficultés à prévoir
+* Paramétrage du modèle 
+* Manipulation des données
+* Temps de calcul
