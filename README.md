@@ -8,6 +8,7 @@ J'utiliserais la bibliothèque tensorflow sur Python
 
 ## Modèle  
 Reseau de neurone + convolution  
+Fonction d'activation : softmax  
 Loss function : SparseCategoricalCrossentropy  
 Optimizer : Adam
 
