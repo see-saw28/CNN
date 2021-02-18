@@ -16,6 +16,6 @@ Optimizer : Adam
 * Validation du modèle
 
 ## Difficultés à prévoir
-* Paramétrage du modèle 
 * Manipulation des données
+* Paramétrage du modèle 
 * Temps de calcul
