@@ -2,7 +2,7 @@
 
 ## Introduction
 Utilisation d'une dataset d'images des numéros de maison issues de Street View.
-Pour chaque image, on peut ainsi avoir le numéro à prédire.
+Pour chaque image, on peut ainsi avoir le numéro à prédire. Le but est donc d'obtenir la meilleure précision possible.
 
 ## Modèle  
 Reseau de neurone + convolution
