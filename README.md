@@ -5,8 +5,8 @@ Utilisation d'une dataset d'images des numéros de maison issues de Street View.
 Pour chaque image, on peut ainsi avoir le numéro à prédire. Le but est donc d'obtenir la meilleure précision possible.
 
 ## Modèle  
-Reseau de neurone + convolution
-Loss function : SparseCategoricalCrossentropy
+Reseau de neurone + convolution  
+Loss function : SparseCategoricalCrossentropy  
 Optimizer : Adam
 
 ## Processus 
