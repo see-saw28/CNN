@@ -1,4 +1,4 @@
-# Réseau de neurones à convolution
+# Réseaux de neurones à convolution
 
 ## SVNH
 
